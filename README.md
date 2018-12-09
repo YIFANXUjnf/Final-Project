@@ -9,7 +9,7 @@ To win the game, a player is going to occupy the square units as much as possibl
 
 Score:
 +50: every square unit occupied
-IMPORTANT: If a player is killed by being in the area that is covered by an explosion, his or her area would be cleared (be white) as well as the score (be zero).
+-500: If a player is killed by being in the area that is covered by an explosions...
 
 
 2. Libraries and features that you will be using/implementing 
