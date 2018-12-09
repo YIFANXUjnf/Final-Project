@@ -5,8 +5,7 @@ Bomb Boom Boom
 1.	Description of the project 
 Bomb Boom Boom is a game that provides options for both one player and two players. There would be other three or two player controlled by computer so that there would be four players in total. Each player has unlimited bombs and starts his or her journey from one of the four corners. A round of the game would be 2 minutes long. In the end, a player wins if he or she gets the highest score.
 
-To win the game, a player is going to occupy the square units as much as possible by explode their bombs. The area covered by an explosion caused by player A will be occupied by player A. Each player is represented by a specific color in blue, green, red and yellow. The occupied area will be colored by the color of the player. A square unit can be re-colored. In other word, player B can occupy the area that has been occupied by player A by making an explosion that covers this area. After being set up, a bomb needs 2 seconds to explode. During the two seconds, the player cannot set up another bomb.
-
+To win the game, a player is going to occupy the square units as much as possible by explode their bombs. The area covered by an explosion caused by player A will be occupied by player A. Each player is represented by a specific color in blue, green, red and yellow. The occupied area will be colored by the color of the player. A square unit can be re-colored. In other word, player B can occupy the area that has been occupied by player A by making an explosion that covers this area. After being set up, a bomb needs 2 seconds to explode. 
 
 Score:
 +50: every square unit occupied
